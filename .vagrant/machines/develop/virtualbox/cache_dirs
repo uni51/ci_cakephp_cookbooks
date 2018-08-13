@@ -1,0 +1,6 @@
+/var/cache/apt/archives
+/var/chef/cache
+/var/lib/gems/2.2.0/cache
+/opt/chef/embedded/lib/ruby/gems/2.5.0/cache
+/var/lib/apt/lists
+/home/vagrant/.composer/cache

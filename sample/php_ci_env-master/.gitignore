@@ -1,0 +1,6 @@
+/.vagrant
+/.chef
+/.bundle
+/bundle
+/cookbooks/
+/application
